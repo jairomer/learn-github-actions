@@ -17,7 +17,7 @@ jobs:
     # The job will run on the latest version of an Ubuntu Linux runner.
     # This is a fresh virtual machine hosted by GitHub.
     # runs-on: ubuntu-latest
-    runs-on: self-hosted
+    runs-on: testing
     steps:
       # "uses" will specify that this step will run a certain "action"
       #
