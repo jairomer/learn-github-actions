@@ -1,0 +1,3 @@
+[submodule "runners/github-actions-runner"]
+	path = runners/github-actions-runner
+	url = https://github.com/docker/github-actions-runner.git
